@@ -1,0 +1,5 @@
+Changelog for quasiRobots.
+
+quasiRobots 1.0.0 pl
+==============
+* Code.

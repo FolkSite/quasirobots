@@ -1,0 +1,14 @@
+{
+    "name": "quasiRobots",
+    "lowCaseName": "quasirobots",
+    "description": "A MODX Revolution extra.",
+    "author": "mishantrop",
+    "version": "1.0.0",
+    "package":{
+        "elements": {
+            "snippets": [{
+                "name": "quasiRobots"
+            }]
+        }
+    }
+}
